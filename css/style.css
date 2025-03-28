@@ -374,7 +374,7 @@ button {
 .social_links li a {
     display: flex;
     align-items: center;
-    padding: 10px;
+    padding: 15px;
     height: 25px;
     border-radius: 5px;
     font-size: 10px;
@@ -1247,8 +1247,8 @@ button {
 
 @media screen and (max-width: 480px) {
     .report {
-        width: 60vw; /* Full width on very small screens */
-        height: 60vh; /* More height for better view */
+        width: 80vw; /* Full width on very small screens */
+        height: 30vh; /* More height for better view */
     }
 }
 
